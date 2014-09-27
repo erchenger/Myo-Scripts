@@ -1,12 +1,12 @@
-scriptId = 'com.elliott.chenger.MYOforDeckset'
+scriptId = 'com.elliott.chenger.MYODeck'
 
--- Myo for Deckset
+-- MYODeck
 --Created by: Elliott Chenger
 --Github: https://github.com/erchenger
 --Twitter: @EChenger
 
 --This script is created to allow the MYO arm band work with Deckset which is a fantastic
---presentation mac app.	
+--presentation mac app.
 
 
 function onPoseEdge(pose, edge)

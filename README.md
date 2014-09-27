@@ -5,7 +5,7 @@ The purpose of this repo is a place to share all the scripts I create to be used
 If you need any info on developing for the MYO please refer to the [MYO Developer page](https://developer.thalmic.com/docs/api_reference/platform/getting-started.html).
 
 #Scripts
-## MYO for Deckset
+## MYODeck
 
 This is as simple as it gets. I wanted a way for me to control my presentations from Deckset using the myo armband.
 
