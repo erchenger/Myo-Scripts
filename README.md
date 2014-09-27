@@ -12,4 +12,4 @@ This is as simple as it gets. I wanted a way for me to control my presentations 
 - Press play
 - `Wave In` to go backward
 - `Wave Out` to go forward
-- Amaze everyone with your jedi hand tricks!
+- Amaze everyone with your jedi tricks and rock your presentation!
